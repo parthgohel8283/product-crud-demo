@@ -82,6 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## View 
-![View](./screenshot/view.jpg)
+![View]('./screenshot/view.jpg')
 ## Edit  
-![View](./screenshot/edit.jpg)
+![View]('./screenshot/edit.jpg')
