@@ -1,0 +1,36 @@
+.container {
+  margin: 5%;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  width: 50%;
+  margin: auto;
+}
+th {
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+}
+thead {
+  background-color: #1d96b2;
+}
+
+.actionButtons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.actionButtons button {
+  background: #187e96;
+  color: #f1f1f1;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 12px;
+}

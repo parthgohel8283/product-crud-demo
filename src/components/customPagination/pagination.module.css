@@ -1,0 +1,14 @@
+.paginationContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.displayPage {
+  margin-top: 8px;
+}
+.arrow {
+  padding: 8px;
+  font-size: 32px;
+  cursor: pointer;
+}
