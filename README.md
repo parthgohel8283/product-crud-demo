@@ -3,11 +3,9 @@
 
 # product-crud-demo
 using dummy json crud opration without using any third party library
+json data source
 
-
-# Project Name
-
-Brief description or introduction of your project.
+https://dummyjson.com/products 
 
 ## Table of Contents
 - [Contributing](#parthgohel8283@gmail.com)
